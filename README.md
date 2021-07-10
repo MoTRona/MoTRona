@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github.com/MoTRona/MoTRona/raw/main/water.gif">
-</p>
+*anuke <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
